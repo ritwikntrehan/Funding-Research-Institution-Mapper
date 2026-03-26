@@ -1,0 +1,7 @@
+[
+  {"id":"nih","name":"National Institutes of Health","shortName":"NIH","description":"Supports biomedical and health-related research across foundational and translational domains."},
+  {"id":"nsf","name":"National Science Foundation","shortName":"NSF","description":"Funds basic science and engineering research, including emerging interdisciplinary fields."},
+  {"id":"doe","name":"Department of Energy Office of Science","shortName":"DOE","description":"Supports energy, materials, and computational research relevant to national priorities."},
+  {"id":"dod","name":"Department of Defense Research Programs","shortName":"DoD","description":"Supports mission-oriented technology and advanced engineering efforts."},
+  {"id":"arpah","name":"Advanced Research Projects Agency for Health","shortName":"ARPA-H","description":"Supports high-impact health research programs with translational potential."}
+]

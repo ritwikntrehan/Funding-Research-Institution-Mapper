@@ -1,0 +1,258 @@
+[
+  {
+    "id": "additive-manufacturing-2022",
+    "fieldId": "additive-manufacturing",
+    "year": 2022,
+    "amount": 19000000,
+    "awardCount": 9,
+    "signalLabel": "Monitoring"
+  },
+  {
+    "id": "additive-manufacturing-2023",
+    "fieldId": "additive-manufacturing",
+    "year": 2023,
+    "amount": 19800000,
+    "awardCount": 14,
+    "signalLabel": "Monitoring"
+  },
+  {
+    "id": "additive-manufacturing-2024",
+    "fieldId": "additive-manufacturing",
+    "year": 2024,
+    "amount": 23400000,
+    "awardCount": 13,
+    "signalLabel": "Monitoring"
+  },
+  {
+    "id": "additive-manufacturing-2025",
+    "fieldId": "additive-manufacturing",
+    "year": 2025,
+    "amount": 24100000,
+    "awardCount": 14,
+    "signalLabel": "Rising"
+  },
+  {
+    "id": "biotech-2022",
+    "fieldId": "biotech",
+    "year": 2022,
+    "amount": 32000000,
+    "awardCount": 9,
+    "signalLabel": "Monitoring"
+  },
+  {
+    "id": "biotech-2023",
+    "fieldId": "biotech",
+    "year": 2023,
+    "amount": 33400000,
+    "awardCount": 17,
+    "signalLabel": "Monitoring"
+  },
+  {
+    "id": "biotech-2024",
+    "fieldId": "biotech",
+    "year": 2024,
+    "amount": 36200000,
+    "awardCount": 12,
+    "signalLabel": "Monitoring"
+  },
+  {
+    "id": "biotech-2025",
+    "fieldId": "biotech",
+    "year": 2025,
+    "amount": 39200000,
+    "awardCount": 6,
+    "signalLabel": "Rising"
+  },
+  {
+    "id": "ai-safety-2022",
+    "fieldId": "ai-safety",
+    "year": 2022,
+    "amount": 30000000,
+    "awardCount": 6,
+    "signalLabel": "Monitoring"
+  },
+  {
+    "id": "ai-safety-2023",
+    "fieldId": "ai-safety",
+    "year": 2023,
+    "amount": 32100000,
+    "awardCount": 14,
+    "signalLabel": "Monitoring"
+  },
+  {
+    "id": "ai-safety-2024",
+    "fieldId": "ai-safety",
+    "year": 2024,
+    "amount": 35200000,
+    "awardCount": 8,
+    "signalLabel": "Monitoring"
+  },
+  {
+    "id": "ai-safety-2025",
+    "fieldId": "ai-safety",
+    "year": 2025,
+    "amount": 33300000,
+    "awardCount": 16,
+    "signalLabel": "Rising"
+  },
+  {
+    "id": "robotics-2022",
+    "fieldId": "robotics",
+    "year": 2022,
+    "amount": 27000000,
+    "awardCount": 6,
+    "signalLabel": "Monitoring"
+  },
+  {
+    "id": "robotics-2023",
+    "fieldId": "robotics",
+    "year": 2023,
+    "amount": 29400000,
+    "awardCount": 7,
+    "signalLabel": "Monitoring"
+  },
+  {
+    "id": "robotics-2024",
+    "fieldId": "robotics",
+    "year": 2024,
+    "amount": 32400000,
+    "awardCount": 11,
+    "signalLabel": "Monitoring"
+  },
+  {
+    "id": "robotics-2025",
+    "fieldId": "robotics",
+    "year": 2025,
+    "amount": 32100000,
+    "awardCount": 17,
+    "signalLabel": "Rising"
+  },
+  {
+    "id": "semiconductors-2022",
+    "fieldId": "semiconductors",
+    "year": 2022,
+    "amount": 23000000,
+    "awardCount": 6,
+    "signalLabel": "Monitoring"
+  },
+  {
+    "id": "semiconductors-2023",
+    "fieldId": "semiconductors",
+    "year": 2023,
+    "amount": 25100000,
+    "awardCount": 7,
+    "signalLabel": "Monitoring"
+  },
+  {
+    "id": "semiconductors-2024",
+    "fieldId": "semiconductors",
+    "year": 2024,
+    "amount": 25200000,
+    "awardCount": 10,
+    "signalLabel": "Monitoring"
+  },
+  {
+    "id": "semiconductors-2025",
+    "fieldId": "semiconductors",
+    "year": 2025,
+    "amount": 27200000,
+    "awardCount": 18,
+    "signalLabel": "Rising"
+  },
+  {
+    "id": "advanced-materials-2022",
+    "fieldId": "advanced-materials",
+    "year": 2022,
+    "amount": 33000000,
+    "awardCount": 18,
+    "signalLabel": "Monitoring"
+  },
+  {
+    "id": "advanced-materials-2023",
+    "fieldId": "advanced-materials",
+    "year": 2023,
+    "amount": 35200000,
+    "awardCount": 6,
+    "signalLabel": "Monitoring"
+  },
+  {
+    "id": "advanced-materials-2024",
+    "fieldId": "advanced-materials",
+    "year": 2024,
+    "amount": 37200000,
+    "awardCount": 16,
+    "signalLabel": "Monitoring"
+  },
+  {
+    "id": "advanced-materials-2025",
+    "fieldId": "advanced-materials",
+    "year": 2025,
+    "amount": 39900000,
+    "awardCount": 13,
+    "signalLabel": "Rising"
+  },
+  {
+    "id": "energy-storage-2022",
+    "fieldId": "energy-storage",
+    "year": 2022,
+    "amount": 18000000,
+    "awardCount": 15,
+    "signalLabel": "Monitoring"
+  },
+  {
+    "id": "energy-storage-2023",
+    "fieldId": "energy-storage",
+    "year": 2023,
+    "amount": 19000000,
+    "awardCount": 6,
+    "signalLabel": "Monitoring"
+  },
+  {
+    "id": "energy-storage-2024",
+    "fieldId": "energy-storage",
+    "year": 2024,
+    "amount": 21400000,
+    "awardCount": 6,
+    "signalLabel": "Monitoring"
+  },
+  {
+    "id": "energy-storage-2025",
+    "fieldId": "energy-storage",
+    "year": 2025,
+    "amount": 23700000,
+    "awardCount": 10,
+    "signalLabel": "Rising"
+  },
+  {
+    "id": "digital-health-2022",
+    "fieldId": "digital-health",
+    "year": 2022,
+    "amount": 14000000,
+    "awardCount": 18,
+    "signalLabel": "Monitoring"
+  },
+  {
+    "id": "digital-health-2023",
+    "fieldId": "digital-health",
+    "year": 2023,
+    "amount": 16300000,
+    "awardCount": 9,
+    "signalLabel": "Monitoring"
+  },
+  {
+    "id": "digital-health-2024",
+    "fieldId": "digital-health",
+    "year": 2024,
+    "amount": 16200000,
+    "awardCount": 15,
+    "signalLabel": "Monitoring"
+  },
+  {
+    "id": "digital-health-2025",
+    "fieldId": "digital-health",
+    "year": 2025,
+    "amount": 19700000,
+    "awardCount": 12,
+    "signalLabel": "Rising"
+  }
+]

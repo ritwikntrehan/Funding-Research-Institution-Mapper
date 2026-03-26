@@ -1,0 +1,8 @@
+[
+  {"id":"boston-ma","name":"Boston, MA","type":"metro","summary":"Dense cluster of biomedical, digital health, and advanced materials research institutions.","topFieldIds":["biotech","digital-health","advanced-materials"]},
+  {"id":"bay-area-ca","name":"Bay Area, CA","type":"metro","summary":"Strong overlap between AI safety, semiconductors, robotics, and applied biotech.","topFieldIds":["ai-safety","semiconductors","robotics"]},
+  {"id":"austin-tx","name":"Austin, TX","type":"metro","summary":"Growing ecosystem for semiconductors, robotics manufacturing, and energy storage pilots.","topFieldIds":["semiconductors","robotics","energy-storage"]},
+  {"id":"pittsburgh-pa","name":"Pittsburgh, PA","type":"metro","summary":"Known for robotics, autonomy, and additive manufacturing research.","topFieldIds":["robotics","additive-manufacturing","ai-safety"]},
+  {"id":"research-triangle-nc","name":"Research Triangle, NC","type":"region","summary":"Blended life sciences and computational health research corridor.","topFieldIds":["biotech","digital-health","advanced-materials"]},
+  {"id":"seattle-wa","name":"Seattle, WA","type":"metro","summary":"Growing activity in AI safety, biotech tools, and clean-energy interfaces.","topFieldIds":["ai-safety","biotech","energy-storage"]}
+]

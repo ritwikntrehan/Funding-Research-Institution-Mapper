@@ -1,0 +1,375 @@
+[
+  {
+    "id": "nora-ibrahim",
+    "name": "Dr. Nora Ibrahim",
+    "institutionId": "mit",
+    "title": "Principal Investigator",
+    "fieldIds": [
+      "ai-safety"
+    ],
+    "recentAwardIds": [
+      "aw-018"
+    ],
+    "trendLabel": "Steady growth",
+    "summary": "Profile summarizes recent award participation and adjacent collaboration patterns in the sample dataset.",
+    "relatedInvestigatorIds": [
+      "isaac-levin",
+      "mei-lin-park"
+    ]
+  },
+  {
+    "id": "rachel-kim",
+    "name": "Dr. Rachel Kim",
+    "institutionId": "mit",
+    "title": "Associate Professor",
+    "fieldIds": [
+      "advanced-materials",
+      "additive-manufacturing"
+    ],
+    "recentAwardIds": [
+      "aw-008"
+    ],
+    "trendLabel": "Accelerating",
+    "summary": "Profile summarizes recent award participation and adjacent collaboration patterns in the sample dataset.",
+    "relatedInvestigatorIds": [
+      "mira-jacobs",
+      "omar-saeed"
+    ]
+  },
+  {
+    "id": "isaac-levin",
+    "name": "Dr. Isaac Levin",
+    "institutionId": "stanford",
+    "title": "Professor",
+    "fieldIds": [
+      "ai-safety",
+      "digital-health"
+    ],
+    "recentAwardIds": [
+      "aw-002"
+    ],
+    "trendLabel": "Steady growth",
+    "summary": "Profile summarizes recent award participation and adjacent collaboration patterns in the sample dataset.",
+    "relatedInvestigatorIds": [
+      "nora-ibrahim",
+      "mei-lin-park"
+    ]
+  },
+  {
+    "id": "hannah-zhou",
+    "name": "Dr. Hannah Zhou",
+    "institutionId": "stanford",
+    "title": "Professor",
+    "fieldIds": [
+      "biotech",
+      "advanced-materials"
+    ],
+    "recentAwardIds": [
+      "aw-001",
+      "aw-005"
+    ],
+    "trendLabel": "Steady growth",
+    "summary": "Profile summarizes recent award participation and adjacent collaboration patterns in the sample dataset.",
+    "relatedInvestigatorIds": [
+      "elena-patel",
+      "daniel-cho"
+    ]
+  },
+  {
+    "id": "oliver-grant",
+    "name": "Dr. Oliver Grant",
+    "institutionId": "carnegie-tech",
+    "title": "Professor",
+    "fieldIds": [
+      "robotics"
+    ],
+    "recentAwardIds": [],
+    "trendLabel": "Accelerating",
+    "summary": "Profile summarizes recent award participation and adjacent collaboration patterns in the sample dataset.",
+    "relatedInvestigatorIds": [
+      "liang-wu",
+      "priya-menon"
+    ]
+  },
+  {
+    "id": "mira-jacobs",
+    "name": "Dr. Mira Jacobs",
+    "institutionId": "carnegie-tech",
+    "title": "Principal Investigator",
+    "fieldIds": [
+      "additive-manufacturing"
+    ],
+    "recentAwardIds": [
+      "aw-016",
+      "aw-024"
+    ],
+    "trendLabel": "Rising",
+    "summary": "Profile summarizes recent award participation and adjacent collaboration patterns in the sample dataset.",
+    "relatedInvestigatorIds": [
+      "samuel-ortega",
+      "rachel-kim"
+    ]
+  },
+  {
+    "id": "sanjay-rao",
+    "name": "Dr. Sanjay Rao",
+    "institutionId": "ut-austin",
+    "title": "Professor",
+    "fieldIds": [
+      "semiconductors"
+    ],
+    "recentAwardIds": [
+      "aw-020",
+      "aw-028"
+    ],
+    "trendLabel": "Rising",
+    "summary": "Profile summarizes recent award participation and adjacent collaboration patterns in the sample dataset.",
+    "relatedInvestigatorIds": [
+      "claire-donovan",
+      "eunji-han"
+    ]
+  },
+  {
+    "id": "matthew-ford",
+    "name": "Dr. Matthew Ford",
+    "institutionId": "ut-austin",
+    "title": "Professor",
+    "fieldIds": [
+      "energy-storage"
+    ],
+    "recentAwardIds": [],
+    "trendLabel": "Rising",
+    "summary": "Profile summarizes recent award participation and adjacent collaboration patterns in the sample dataset.",
+    "relatedInvestigatorIds": [
+      "ana-morales",
+      "julia-bennett"
+    ]
+  },
+  {
+    "id": "samuel-ortega",
+    "name": "Dr. Samuel Ortega",
+    "institutionId": "georgia-tech",
+    "title": "Associate Professor",
+    "fieldIds": [
+      "additive-manufacturing",
+      "robotics"
+    ],
+    "recentAwardIds": [
+      "aw-011",
+      "aw-019",
+      "aw-027"
+    ],
+    "trendLabel": "Steady growth",
+    "summary": "Profile summarizes recent award participation and adjacent collaboration patterns in the sample dataset.",
+    "relatedInvestigatorIds": [
+      "mira-jacobs",
+      "priya-menon"
+    ]
+  },
+  {
+    "id": "priya-menon",
+    "name": "Dr. Priya Menon",
+    "institutionId": "georgia-tech",
+    "title": "Research Lead",
+    "fieldIds": [
+      "robotics"
+    ],
+    "recentAwardIds": [
+      "aw-003"
+    ],
+    "trendLabel": "Steady growth",
+    "summary": "Profile summarizes recent award participation and adjacent collaboration patterns in the sample dataset.",
+    "relatedInvestigatorIds": [
+      "oliver-grant",
+      "samuel-ortega"
+    ]
+  },
+  {
+    "id": "elena-patel",
+    "name": "Dr. Elena Patel",
+    "institutionId": "harbor-biomedical",
+    "title": "Program Director",
+    "fieldIds": [
+      "biotech"
+    ],
+    "recentAwardIds": [
+      "aw-009",
+      "aw-017"
+    ],
+    "trendLabel": "Rising",
+    "summary": "Profile summarizes recent award participation and adjacent collaboration patterns in the sample dataset.",
+    "relatedInvestigatorIds": [
+      "hannah-zhou",
+      "daniel-cho"
+    ]
+  },
+  {
+    "id": "daniel-cho",
+    "name": "Dr. Daniel Cho",
+    "institutionId": "harbor-biomedical",
+    "title": "Principal Scientist",
+    "fieldIds": [
+      "digital-health",
+      "biotech"
+    ],
+    "recentAwardIds": [
+      "aw-025"
+    ],
+    "trendLabel": "Rising",
+    "summary": "Profile summarizes recent award participation and adjacent collaboration patterns in the sample dataset.",
+    "relatedInvestigatorIds": [
+      "alicia-romero",
+      "elena-patel"
+    ]
+  },
+  {
+    "id": "alicia-romero",
+    "name": "Dr. Alicia Romero",
+    "institutionId": "duke",
+    "title": "Professor",
+    "fieldIds": [
+      "digital-health"
+    ],
+    "recentAwardIds": [
+      "aw-015",
+      "aw-023"
+    ],
+    "trendLabel": "Accelerating",
+    "summary": "Profile summarizes recent award participation and adjacent collaboration patterns in the sample dataset.",
+    "relatedInvestigatorIds": [
+      "daniel-cho",
+      "mei-lin-park"
+    ]
+  },
+  {
+    "id": "mei-lin-park",
+    "name": "Dr. Mei-Lin Park",
+    "institutionId": "uw-seattle",
+    "title": "Professor",
+    "fieldIds": [
+      "ai-safety",
+      "digital-health"
+    ],
+    "recentAwardIds": [
+      "aw-007",
+      "aw-010",
+      "aw-026"
+    ],
+    "trendLabel": "Accelerating",
+    "summary": "Profile summarizes recent award participation and adjacent collaboration patterns in the sample dataset.",
+    "relatedInvestigatorIds": [
+      "isaac-levin",
+      "alicia-romero"
+    ]
+  },
+  {
+    "id": "julia-bennett",
+    "name": "Dr. Julia Bennett",
+    "institutionId": "uw-seattle",
+    "title": "Associate Professor",
+    "fieldIds": [
+      "energy-storage"
+    ],
+    "recentAwardIds": [
+      "aw-014",
+      "aw-022"
+    ],
+    "trendLabel": "Rising",
+    "summary": "Profile summarizes recent award participation and adjacent collaboration patterns in the sample dataset.",
+    "relatedInvestigatorIds": [
+      "matthew-ford",
+      "ana-morales"
+    ]
+  },
+  {
+    "id": "claire-donovan",
+    "name": "Dr. Claire Donovan",
+    "institutionId": "asu",
+    "title": "Professor",
+    "fieldIds": [
+      "semiconductors"
+    ],
+    "recentAwardIds": [
+      "aw-004"
+    ],
+    "trendLabel": "Rising",
+    "summary": "Profile summarizes recent award participation and adjacent collaboration patterns in the sample dataset.",
+    "relatedInvestigatorIds": [
+      "sanjay-rao",
+      "eunji-han"
+    ]
+  },
+  {
+    "id": "ana-morales",
+    "name": "Dr. Ana Morales",
+    "institutionId": "asu",
+    "title": "Principal Investigator",
+    "fieldIds": [
+      "advanced-materials",
+      "energy-storage"
+    ],
+    "recentAwardIds": [
+      "aw-006",
+      "aw-013",
+      "aw-021"
+    ],
+    "trendLabel": "Rising",
+    "summary": "Profile summarizes recent award participation and adjacent collaboration patterns in the sample dataset.",
+    "relatedInvestigatorIds": [
+      "matthew-ford",
+      "julia-bennett"
+    ]
+  },
+  {
+    "id": "omar-saeed",
+    "name": "Dr. Omar Saeed",
+    "institutionId": "northwestern",
+    "title": "Professor",
+    "fieldIds": [
+      "advanced-materials"
+    ],
+    "recentAwardIds": [],
+    "trendLabel": "Rising",
+    "summary": "Profile summarizes recent award participation and adjacent collaboration patterns in the sample dataset.",
+    "relatedInvestigatorIds": [
+      "rachel-kim",
+      "hannah-zhou"
+    ]
+  },
+  {
+    "id": "liang-wu",
+    "name": "Dr. Liang Wu",
+    "institutionId": "carnegie-tech",
+    "title": "Associate Professor",
+    "fieldIds": [
+      "robotics",
+      "ai-safety"
+    ],
+    "recentAwardIds": [],
+    "trendLabel": "Rising",
+    "summary": "Profile summarizes recent award participation and adjacent collaboration patterns in the sample dataset.",
+    "relatedInvestigatorIds": [
+      "oliver-grant",
+      "priya-menon"
+    ]
+  },
+  {
+    "id": "eunji-han",
+    "name": "Dr. Eunji Han",
+    "institutionId": "northwestern",
+    "title": "Research Professor",
+    "fieldIds": [
+      "semiconductors",
+      "advanced-materials"
+    ],
+    "recentAwardIds": [
+      "aw-012"
+    ],
+    "trendLabel": "Rising",
+    "summary": "Profile summarizes recent award participation and adjacent collaboration patterns in the sample dataset.",
+    "relatedInvestigatorIds": [
+      "claire-donovan",
+      "sanjay-rao"
+    ]
+  }
+]

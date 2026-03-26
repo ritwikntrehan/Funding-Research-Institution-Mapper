@@ -1,0 +1,405 @@
+[
+  {
+    "id": "aw-001",
+    "title": "Biotech Program 1",
+    "agencyId": "nih",
+    "institutionId": "stanford",
+    "investigatorId": "hannah-zhou",
+    "fieldIds": [
+      "biotech"
+    ],
+    "amount": 1500000,
+    "year": 2023,
+    "status": "completed",
+    "summary": "Curated sample award record used to demonstrate searchable funding landscape structure."
+  },
+  {
+    "id": "aw-002",
+    "title": "Ai Safety Program 2",
+    "agencyId": "arpah",
+    "institutionId": "stanford",
+    "investigatorId": "isaac-levin",
+    "fieldIds": [
+      "ai-safety"
+    ],
+    "amount": 1450000,
+    "year": 2024,
+    "status": "planned",
+    "summary": "Curated sample award record used to demonstrate searchable funding landscape structure."
+  },
+  {
+    "id": "aw-003",
+    "title": "Robotics Program 3",
+    "agencyId": "arpah",
+    "institutionId": "georgia-tech",
+    "investigatorId": "priya-menon",
+    "fieldIds": [
+      "robotics",
+      "semiconductors"
+    ],
+    "amount": 650000,
+    "year": 2021,
+    "status": "completed",
+    "summary": "Curated sample award record used to demonstrate searchable funding landscape structure."
+  },
+  {
+    "id": "aw-004",
+    "title": "Semiconductors Program 4",
+    "agencyId": "doe",
+    "institutionId": "asu",
+    "investigatorId": "claire-donovan",
+    "fieldIds": [
+      "semiconductors",
+      "energy-storage"
+    ],
+    "amount": 3800000,
+    "year": 2022,
+    "status": "active",
+    "summary": "Curated sample award record used to demonstrate searchable funding landscape structure."
+  },
+  {
+    "id": "aw-005",
+    "title": "Advanced Materials Program 5",
+    "agencyId": "nsf",
+    "institutionId": "stanford",
+    "investigatorId": "hannah-zhou",
+    "fieldIds": [
+      "advanced-materials"
+    ],
+    "amount": 2500000,
+    "year": 2022,
+    "status": "active",
+    "summary": "Curated sample award record used to demonstrate searchable funding landscape structure."
+  },
+  {
+    "id": "aw-006",
+    "title": "Energy Storage Program 6",
+    "agencyId": "arpah",
+    "institutionId": "asu",
+    "investigatorId": "ana-morales",
+    "fieldIds": [
+      "energy-storage"
+    ],
+    "amount": 3700000,
+    "year": 2025,
+    "status": "active",
+    "summary": "Curated sample award record used to demonstrate searchable funding landscape structure."
+  },
+  {
+    "id": "aw-007",
+    "title": "Digital Health Program 7",
+    "agencyId": "dod",
+    "institutionId": "uw-seattle",
+    "investigatorId": "mei-lin-park",
+    "fieldIds": [
+      "digital-health",
+      "advanced-materials"
+    ],
+    "amount": 2700000,
+    "year": 2023,
+    "status": "planned",
+    "summary": "Curated sample award record used to demonstrate searchable funding landscape structure."
+  },
+  {
+    "id": "aw-008",
+    "title": "Additive Manufacturing Program 8",
+    "agencyId": "dod",
+    "institutionId": "mit",
+    "investigatorId": "rachel-kim",
+    "fieldIds": [
+      "additive-manufacturing",
+      "digital-health"
+    ],
+    "amount": 3800000,
+    "year": 2022,
+    "status": "planned",
+    "summary": "Curated sample award record used to demonstrate searchable funding landscape structure."
+  },
+  {
+    "id": "aw-009",
+    "title": "Biotech Program 9",
+    "agencyId": "dod",
+    "institutionId": "harbor-biomedical",
+    "investigatorId": "elena-patel",
+    "fieldIds": [
+      "biotech"
+    ],
+    "amount": 2700000,
+    "year": 2024,
+    "status": "planned",
+    "summary": "Curated sample award record used to demonstrate searchable funding landscape structure."
+  },
+  {
+    "id": "aw-010",
+    "title": "Ai Safety Program 10",
+    "agencyId": "arpah",
+    "institutionId": "uw-seattle",
+    "investigatorId": "mei-lin-park",
+    "fieldIds": [
+      "ai-safety",
+      "digital-health"
+    ],
+    "amount": 3550000,
+    "year": 2022,
+    "status": "completed",
+    "summary": "Curated sample award record used to demonstrate searchable funding landscape structure."
+  },
+  {
+    "id": "aw-011",
+    "title": "Robotics Program 11",
+    "agencyId": "arpah",
+    "institutionId": "georgia-tech",
+    "investigatorId": "samuel-ortega",
+    "fieldIds": [
+      "robotics"
+    ],
+    "amount": 3500000,
+    "year": 2023,
+    "status": "completed",
+    "summary": "Curated sample award record used to demonstrate searchable funding landscape structure."
+  },
+  {
+    "id": "aw-012",
+    "title": "Semiconductors Program 12",
+    "agencyId": "arpah",
+    "institutionId": "northwestern",
+    "investigatorId": "eunji-han",
+    "fieldIds": [
+      "semiconductors"
+    ],
+    "amount": 3650000,
+    "year": 2025,
+    "status": "planned",
+    "summary": "Curated sample award record used to demonstrate searchable funding landscape structure."
+  },
+  {
+    "id": "aw-013",
+    "title": "Advanced Materials Program 13",
+    "agencyId": "nsf",
+    "institutionId": "asu",
+    "investigatorId": "ana-morales",
+    "fieldIds": [
+      "advanced-materials"
+    ],
+    "amount": 2750000,
+    "year": 2025,
+    "status": "active",
+    "summary": "Curated sample award record used to demonstrate searchable funding landscape structure."
+  },
+  {
+    "id": "aw-014",
+    "title": "Energy Storage Program 14",
+    "agencyId": "nih",
+    "institutionId": "uw-seattle",
+    "investigatorId": "julia-bennett",
+    "fieldIds": [
+      "energy-storage",
+      "robotics"
+    ],
+    "amount": 1100000,
+    "year": 2021,
+    "status": "active",
+    "summary": "Curated sample award record used to demonstrate searchable funding landscape structure."
+  },
+  {
+    "id": "aw-015",
+    "title": "Digital Health Program 15",
+    "agencyId": "arpah",
+    "institutionId": "duke",
+    "investigatorId": "alicia-romero",
+    "fieldIds": [
+      "digital-health"
+    ],
+    "amount": 1100000,
+    "year": 2025,
+    "status": "active",
+    "summary": "Curated sample award record used to demonstrate searchable funding landscape structure."
+  },
+  {
+    "id": "aw-016",
+    "title": "Additive Manufacturing Program 16",
+    "agencyId": "nsf",
+    "institutionId": "carnegie-tech",
+    "investigatorId": "mira-jacobs",
+    "fieldIds": [
+      "additive-manufacturing",
+      "additive-manufacturing"
+    ],
+    "amount": 3150000,
+    "year": 2021,
+    "status": "active",
+    "summary": "Curated sample award record used to demonstrate searchable funding landscape structure."
+  },
+  {
+    "id": "aw-017",
+    "title": "Biotech Program 17",
+    "agencyId": "doe",
+    "institutionId": "harbor-biomedical",
+    "investigatorId": "elena-patel",
+    "fieldIds": [
+      "biotech"
+    ],
+    "amount": 600000,
+    "year": 2021,
+    "status": "active",
+    "summary": "Curated sample award record used to demonstrate searchable funding landscape structure."
+  },
+  {
+    "id": "aw-018",
+    "title": "Ai Safety Program 18",
+    "agencyId": "nih",
+    "institutionId": "mit",
+    "investigatorId": "nora-ibrahim",
+    "fieldIds": [
+      "ai-safety"
+    ],
+    "amount": 550000,
+    "year": 2023,
+    "status": "completed",
+    "summary": "Curated sample award record used to demonstrate searchable funding landscape structure."
+  },
+  {
+    "id": "aw-019",
+    "title": "Robotics Program 19",
+    "agencyId": "nsf",
+    "institutionId": "georgia-tech",
+    "investigatorId": "samuel-ortega",
+    "fieldIds": [
+      "robotics",
+      "additive-manufacturing"
+    ],
+    "amount": 2900000,
+    "year": 2025,
+    "status": "active",
+    "summary": "Curated sample award record used to demonstrate searchable funding landscape structure."
+  },
+  {
+    "id": "aw-020",
+    "title": "Semiconductors Program 20",
+    "agencyId": "nsf",
+    "institutionId": "ut-austin",
+    "investigatorId": "sanjay-rao",
+    "fieldIds": [
+      "semiconductors",
+      "additive-manufacturing"
+    ],
+    "amount": 2650000,
+    "year": 2025,
+    "status": "active",
+    "summary": "Curated sample award record used to demonstrate searchable funding landscape structure."
+  },
+  {
+    "id": "aw-021",
+    "title": "Advanced Materials Program 21",
+    "agencyId": "doe",
+    "institutionId": "asu",
+    "investigatorId": "ana-morales",
+    "fieldIds": [
+      "advanced-materials"
+    ],
+    "amount": 2400000,
+    "year": 2024,
+    "status": "active",
+    "summary": "Curated sample award record used to demonstrate searchable funding landscape structure."
+  },
+  {
+    "id": "aw-022",
+    "title": "Energy Storage Program 22",
+    "agencyId": "dod",
+    "institutionId": "uw-seattle",
+    "investigatorId": "julia-bennett",
+    "fieldIds": [
+      "energy-storage",
+      "ai-safety"
+    ],
+    "amount": 3450000,
+    "year": 2022,
+    "status": "active",
+    "summary": "Curated sample award record used to demonstrate searchable funding landscape structure."
+  },
+  {
+    "id": "aw-023",
+    "title": "Digital Health Program 23",
+    "agencyId": "nih",
+    "institutionId": "duke",
+    "investigatorId": "alicia-romero",
+    "fieldIds": [
+      "digital-health"
+    ],
+    "amount": 1250000,
+    "year": 2025,
+    "status": "planned",
+    "summary": "Curated sample award record used to demonstrate searchable funding landscape structure."
+  },
+  {
+    "id": "aw-024",
+    "title": "Additive Manufacturing Program 24",
+    "agencyId": "arpah",
+    "institutionId": "carnegie-tech",
+    "investigatorId": "mira-jacobs",
+    "fieldIds": [
+      "additive-manufacturing"
+    ],
+    "amount": 2600000,
+    "year": 2023,
+    "status": "completed",
+    "summary": "Curated sample award record used to demonstrate searchable funding landscape structure."
+  },
+  {
+    "id": "aw-025",
+    "title": "Biotech Program 25",
+    "agencyId": "dod",
+    "institutionId": "harbor-biomedical",
+    "investigatorId": "daniel-cho",
+    "fieldIds": [
+      "biotech"
+    ],
+    "amount": 4000000,
+    "year": 2022,
+    "status": "active",
+    "summary": "Curated sample award record used to demonstrate searchable funding landscape structure."
+  },
+  {
+    "id": "aw-026",
+    "title": "Ai Safety Program 26",
+    "agencyId": "nih",
+    "institutionId": "uw-seattle",
+    "investigatorId": "mei-lin-park",
+    "fieldIds": [
+      "ai-safety"
+    ],
+    "amount": 1500000,
+    "year": 2021,
+    "status": "planned",
+    "summary": "Curated sample award record used to demonstrate searchable funding landscape structure."
+  },
+  {
+    "id": "aw-027",
+    "title": "Robotics Program 27",
+    "agencyId": "arpah",
+    "institutionId": "georgia-tech",
+    "investigatorId": "samuel-ortega",
+    "fieldIds": [
+      "robotics",
+      "additive-manufacturing"
+    ],
+    "amount": 2000000,
+    "year": 2022,
+    "status": "planned",
+    "summary": "Curated sample award record used to demonstrate searchable funding landscape structure."
+  },
+  {
+    "id": "aw-028",
+    "title": "Semiconductors Program 28",
+    "agencyId": "doe",
+    "institutionId": "ut-austin",
+    "investigatorId": "sanjay-rao",
+    "fieldIds": [
+      "semiconductors"
+    ],
+    "amount": 1900000,
+    "year": 2025,
+    "status": "completed",
+    "summary": "Curated sample award record used to demonstrate searchable funding landscape structure."
+  }
+]
